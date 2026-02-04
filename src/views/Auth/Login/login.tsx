@@ -35,7 +35,6 @@ const LoginViews = () => {
 
         }
 
-
     }
     return (
         <>
